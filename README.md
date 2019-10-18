@@ -1,5 +1,5 @@
 # About-Sincere Andrade
-This repository will focus sole on my life. No downers only the positives. 
+This repository will focus soley on my life. No downers only the positives. 
 
 
 **Name:** Sincere Andrade
@@ -26,4 +26,12 @@ My dads side is a completely different story. I have yet to meet the family of m
 
 1. [Google Snake](https://www.google.com/search?q=google+snake&rlz=1CAEAQE_enUS814&oq=google+snake&aqs=chrome..69i57j0l5.2872j1j7&sourceid=chrome&ie=UTF-8)
 
-2. [Youtube](youtube.com)
+2. [Youtube](https://www.youtube.com/)
+
+3. [Nintendo](https://www.nintendo.com/)
+
+## Favorite Books
+
+* [Watership Down](https://www.amazon.com/Watership-Down-Novel-Richard-Adams/dp/0743277708)
+
+* [Jurrasic Park](https://www.amazon.com/Jurassic-Park-Novel-Michael-Crichton/dp/0345538986?ref_=fsclp_pl_dp_1)
