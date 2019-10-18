@@ -35,3 +35,23 @@ My dads side is a completely different story. I have yet to meet the family of m
 * [Watership Down](https://www.amazon.com/Watership-Down-Novel-Richard-Adams/dp/0743277708)
 
 * [Jurrasic Park](https://www.amazon.com/Jurassic-Park-Novel-Michael-Crichton/dp/0345538986?ref_=fsclp_pl_dp_1)
+
+## Hobbies 
+
+* Playing Pokemon
+
+* Going to work
+
+* Sleeping
+
+* Playing Super Smash Bros
+
+## Skills
+
+1. Hardworker
+
+2. I learn fast
+
+3. Champion in procrastinating
+
+4. Good at savng money
